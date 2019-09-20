@@ -1,4 +1,3 @@
-
 # specific branch build
 trigger:
   branches:
